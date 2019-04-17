@@ -1,1 +1,1 @@
-#MoneyInTg.github.io
+MoneyInTg.github.io
